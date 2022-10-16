@@ -4,4 +4,3 @@ google.com
 yahoo.com
 facebook.com
 amazon.com
-nekopoi.com
